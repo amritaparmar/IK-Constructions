@@ -1,0 +1,163 @@
+/*! 
+
+=========================================================
+
+ *IK Constructions Responsive
+
+=========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
+
+@media (max-width: 1440px){
+
+}
+@media (max-width: 1240px){
+    .sucess_box h3{font-size: 44px;}
+}
+@media (min-width: 1200px){
+    .container {max-width: 1232px;}
+}
+@media (max-width: 1199px){
+    .yellow_btn{padding: 12px 33.5px;}
+    .home_banner_section h2{font-size: 38px;width: 440px;top: -175px;}
+    .home_banner_section .banner_h2{top: -85px;width: 345px;}
+    .home_banner_section .yellow_btn{bottom: -90px;}
+    .building_section .col-md-7{flex: 0 0 80%;max-width: 80%;}
+    .service_text h4{font-size: 22px;line-height: 32px;}
+    .service_box{padding: 117px 28px 48px;}
+    .service2_text h5{font-size: 20px;}
+    .service_heading h4{font-size: 38px;}
+    .footer_top .col-lg-5{flex: 0 0 100%;max-width: 100%;}
+    .footer_top .col-lg-2{flex: 0 0 33.33%;max-width: 33.33%;}
+    .footer_logo {margin-bottom: 30px;}
+    .kmore_text a{margin-bottom: 30px;}
+    .kmore_text h5{font-size: 20px;line-height: 28px;}
+    .philosophy_text h4{font-size: 26px;line-height: 42px;}
+    .about_banner_section .col-lg-5, .about_banner_section .col-lg-7{flex: 0 0 100%;max-width: 100%;}
+    .about_content_area{width: 100%;position: relative;top: 0;}
+    .about_banner_img {margin-top: 60px;}
+    .breadcrumb_menu li a{font-size: 22px;}
+    .breadcrumb_menu li.active:after, .breadcrumb_menu li:hover:after{width: 95px;height: 5px;bottom: -5px;}
+    .civil2_text p{padding: 0 15px 70px;font-size: 16px;line-height: 26px;}
+    .civil2_text h4{font-size: 28px;}
+    .civil_project_info {padding: 0 0 0 70px;}
+    .civil_slider_section .col-lg-4, .civil_slider_section .col-lg-8{flex: 0 0 100%;max-width: 100%;}
+    .civil_slider_info {width: 100%;position: relative;top: 0;margin-bottom: 30px;}
+    .contact_section .col-lg-4, .contact_section .col-lg-8{flex: 0 0 100%;max-width: 100%;}
+    .contact_form{width: 100%;position: relative;padding: 45px 30px;}
+    .yellow_box{top: 0;padding: 45px 30px;}
+    .contact_section {margin: 120px 0;}
+}
+@media (max-width: 991px){
+    .home_banner_section h2{position: relative; top: -10px;}
+    .home_banner_section .banner_h2{top: 0;}
+    .home_banner_section .col-lg-4 {margin-top: 60px;}
+    .home_banner_section p{padding: 20px 0;}
+    .white_box:before{display: none;}
+    .building_section .col-md-7 {flex: 0 0 100%;max-width: 100%;}
+    .logos_section .col-lg-2{flex: 0 0 50%;max-width: 50%;}
+    .service_sector_section2 .col-lg-5 img {margin-top: 0;}
+    .review_box .col-sm-2, .review_box .col-sm-10{flex: 0 0 100%;max-width: 100%;}
+    .mobile_menu{display: block;position: absolute;right: 30px;top: -38px;}
+    .menu{display: none;}
+    .select_toggle {background: #FFFFFF;box-sizing: border-box;display: none;position: absolute;z-index: 99;top: 55px;left: 0;left: auto;right: 0;}
+    .toggle_links {width: 150px;padding: 18px 25px;border: 1px solid rgba(245, 173, 13, 1);}
+    .toggle_links li {width: 100%;text-align: left;}
+    .toggle_links .active a{color:rgba(245, 173, 13, 1);}
+    .toggle_links li:not(:last-child){padding-bottom: 10px;}
+    .quality_img img{width: 100%;}
+    .about_logos {padding-bottom: 80px;}
+    .philosophy_text {margin-top: 30px;}
+    .philosophy_main h4{font-size: 30px;line-height: 40px;}
+    .philosophy_text h4 {font-size: 26px;line-height: 36px;}
+    .logos_section h4{left: 38%;}
+    .breadcrumb_title h4{font-size: 28px;line-height: 38px;margin-bottom: 70px;}
+    .breadcrumb_menu li a {font-size: 18px;line-height: 30px;}
+    .civil_project_info {padding: 30px 15px 0;}
+    .civil_project_section .pt{padding-top: 0;}
+    .civil2_text h4{text-align: left;}
+    .civil2_text h4:after{left: 0;}
+    .civil2_text p{margin-bottom: 0; text-align: left;}
+    .civil_img{text-align: left !important;margin-top: 30px;}
+    .civil_img img{width:100%;}
+    .interior_section .civil2_text h4:after {left: 0 !important;}
+    .contact_img {text-align: left;margin-bottom: 5px;}
+    .contact_info_box {margin-bottom: 15px;}
+    .form_details p{font-size: 20px;line-height: 26px;}
+    .project_slides .col-lg-4:nth-child(7){margin-bottom: 46px;}
+    ul.tabs3 li{font-size: 20px;line-height: 40px}
+    ul.tabs3 li.active:after, ul.tabs3 li:hover:after{width: 65px;bottom: -5px;}
+    ul.tabs3 li:not(:last-child) {margin-right: 30px;}
+    .pd_location_info h5{font-size: 22px;line-height: 38px;margin-bottom: 18px;}
+    .pd_location img{margin-left: 10px;}
+    .pd_location_info p{font-size: 18px;line-height: 25px;}
+}
+@media (max-width: 767px){
+    .footer_top .col-lg-2 {flex: 0 0 50%;max-width: 50%;}
+    .footer_top .addres_col{flex: 0 0 50%;max-width: 50%;}
+    .footer_bottom .col-md-6:nth-child(2) {padding-right: 15px;text-align: center !important; margin-top: 15px;}
+    .footer_bottom .col-md-6:nth-child(1) {padding-left: 15px;text-align: center;}
+    .sucess_div .col-md-6:nth-child(1) {margin-bottom: 0;}
+    .white_box{padding: 50px;}
+    .white_box h3{margin-bottom: 30px;}
+    .knowmore_box{padding: 70px 15px 0 15px;}
+    .logos_section h4 {left: 0;}
+    .breadcrumb_menu li:not(:last-child) {margin-right: 20px;}
+    .breadcrumb_menu li a {font-size: 16px;line-height: 28px;}
+    .breadcrumb_menu li.active:after, .breadcrumb_menu li:hover:after{width: 70px;}
+    .contact_section {margin: 60px 0;}
+    .project_box img{width: 100%;}
+    .project_text p{padding: 0 15px;}
+    .project_slides .col-lg-4:nth-child(8) .project_box,.project_slides .col-lg-4:nth-child(7){margin-bottom: 15px;}
+    .project_box{margin-bottom:15px;}
+    .pd_location_info h5 {font-size: 18px;line-height: 35px;margin-bottom: 13px;}
+    .pd_location_info p {font-size: 15px;line-height: 18px;}
+    .pd_location p{font-size: 16px;}
+}
+@media (max-width: 480px){
+    .white_box h3{font-size: 36px;line-height: 53px;}
+    .white_box h3 {margin-bottom: 15px;}
+    .service_heading h4 {font-size: 26px;}
+    .service_heading h5{font-size: 20px;line-height: 32px;margin-bottom: 0;}
+    .home_banner_section h2 {font-size: 32px;width: 365px;}
+    .home_banner_section .banner_h2 {width: 290px;}
+    .header_text li:not(:last-child) {margin-right: 5px;}
+    .project_box {display: inline-block;width: 100%;}
+    .project_box img{width: 100%;}
+    .property_info.property_info2 img{width: auto;}
+    .service_sector_section2{margin-top: 0;}
+    .service_sector_section2 .service_heading {margin-top: 100px;}
+    .quote_section h4{font-size: 26px;}
+    .logo img {max-width: 70%;}
+    .tabs {display: none;}
+    .tab_drawer_heading {font-size: 18px;background-color: #2A3B5E;color: #fff;margin-bottom:15px;padding: 8px 20px;display: block;cursor: pointer;-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
+    .tabs2 {display: none;}
+    .tab_drawer_heading2 {font-size: 18px;background-color: #2A3B5E;color: #fff;margin-bottom:15px;padding: 8px 20px;display: block;cursor: pointer;-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
+    .tabs3 {display: none;}
+    .tab_drawer_heading3 {font-size: 18px;background-color: #2A3B5E;color: #fff;margin-bottom:15px;padding: 8px 20px;display: block;cursor: pointer;-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
+    .tab_content3{margin-bottom: 20px;}
+    .d_active {background-color: #F5AD0D;color: #fff;}
+    .about_content_area{padding: 32px 32px 24px 32px;}
+    .philosophy_main h4 {font-size: 26px;line-height: 35px;}
+    .breadcrumb_menu li:not(:last-child) {margin-right: 10px;}
+    .breadcrumb_menu li a {font-size: 14px;line-height: 26px;font-weight: 500;}
+    .civil_slider_info{padding: 32px 15px 50px 15px;}
+    .breadcrumb_menu li.active:after, .breadcrumb_menu li:hover:after {width: 50px;}
+    .breadcrumb_title h4 {font-size: 25px; line-height: 35px;margin-bottom: 50px;}
+    .project_text{padding: 17% 0px;}
+    .pd_location_info{padding: 10px 14px;}
+    .pd_location_info h5 {font-size: 14px;line-height: 29px;margin-bottom: 7px;}
+    .pd_location{right: 10px;top: 15px;}
+    .pd_location p {font-size: 14px;line-height: 16px;}
+    .pd_location img{vertical-align: middle;}
+    
+}
+@media (max-width: 375px){
+    .header_text li:not(:last-child) {margin-right: 0;}
+    .home_banner_section h2 {font-size: 24px;width: 320px;line-height: 65px;}
+    .white_box {padding: 50px 30px;}
+    .breadcrumb_menu li a{font-size: 12px;}
+    .breadcrumb_menu li.active:after, .breadcrumb_menu li:hover:after {width: 40px;}
+}
